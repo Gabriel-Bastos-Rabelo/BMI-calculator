@@ -1,0 +1,2 @@
+The BMI calculator that I developed using HTML, CSS, and JavaScript is a tool that allows users to calculate their Body Mass Index (BMI) and determine their weight status based on their height and weight.
+O cálculo do IMC é realizado usando JavaScript, que pega a altura e o peso do usuário e aplica a fórmula do IMC para calcular seu IMC. O IMC calculado é exibido na tela junto com uma mensagem indicando o status do peso do usuário com base no valor do IMC. A mensagem também é estilizada usando CSS para torná-la mais proeminente e fácil de ler.
